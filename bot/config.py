@@ -3,11 +3,9 @@ class config:
     APP_ID = "4313946"
     API_HASH = "376cf2c29608cc2015b42e4d514474c2"
     DATABASE_URL = "postgres://emmklrplvomqob:b0b56690f0a5586394a75e44f0649e57ae72153a733ebe7911a9a41d64d0b2ae@ec2-54-160-96-70.compute-1.amazonaws.com:5432/de3g4iinoh7djb"
-    SUDO_USERS = "877939141 1470556493 936357647" # Sepearted by space.
+    SUDO_USERS = "877939141 1470556493" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/groupislameritihas"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
 
 
 class BotCommands:
